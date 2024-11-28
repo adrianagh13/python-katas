@@ -1,7 +1,7 @@
 # Python Katas
 
 ## Overview
-This project showcases solutions for each of the three Python tasks from the EPAM's Cloud & Devops Course.
+This project showcases clean and simple solutions for each of the three Python tasks from the EPAM's Cloud & Devops Course. Each solution is implemented in its respective module, focusing on clarity and functionality.
 
 ## Kata Descriptions
 * Kata 1: Dictionary Class
@@ -10,3 +10,33 @@ In this kata a class Dictionary was created, which has methods for adding and lo
 Contains a function that calculates the total cost of the elements of a shopping list, applies a tax, and returns the value of the total plus the tax, rounded to two decimal places.
 * Kata 3: Word Construction
 Defines a function that takes an array of words, and constructs a new word, formed by the concatenation of the *nth* letter from each word, where *n* represents the index of the word in the array.
+
+## Structure
+A very simple and neat structure was implemented on this small project:
+```
+python-katas/
+|-- kata1.py # Solution for Kata 1: Dictionary Class
+|-- kata1.py # Solution for Kata 2: Total Cost Calculation
+|-- kata1.py # Solution for Kata 3: Word Construction
+|-- main.py # Script to run and demonstrate all katas
+|__README.md # Documentation
+```
+
+## How To Use
+1. Clone the Repository to your local
+Clone the repository and navigate to the recently added directory.
+```
+# HTTPS
+git clone https://github.com/adrianagh13/python-katas.git
+# SSH
+git clone git@github.com:adrianagh13/python-katas.git
+# Move to the repository
+cd python-katas
+```
+2. Run the Project
+Once ensured that python is installed, run the project using the main.py
+`python main.py`
+
+## Usage
+
+## Contributions
