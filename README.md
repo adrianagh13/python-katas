@@ -24,7 +24,7 @@ python-katas/
 
 ## How To Use
 1. Clone the Repository to your local
-Clone the repository and navigate to the recently added directory.
+- Clone the repository and navigate to the recently added directory.
 ```
 # HTTPS
 git clone https://github.com/adrianagh13/python-katas.git
@@ -34,8 +34,10 @@ git clone git@github.com:adrianagh13/python-katas.git
 cd python-katas
 ```
 2. Run the Project
-Once ensured that python is installed, run the project using the main.py
-`python main.py`
+- Once ensured that python is installed, run the project using the main.py module.
+```
+python main.py
+```
 
 ## Usage
 
