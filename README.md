@@ -40,7 +40,7 @@ python main.py
 ```
 
 ## Usage Examples
-The examples provided on the main.py to test each kata have valid inputs ad indicated in the task instructions, but in addition, validation for handling errors was added.
+The examples provided to test each kata on `main.py` module have valid inputs as indicated in the task instructions, but in addition, validation for handling errors was added.
 
 ## Contributions
 Please feel free to make suggestions on improvements. For that, fork the repository, create a branch, and submit a pull request.
